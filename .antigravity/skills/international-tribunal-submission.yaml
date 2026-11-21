@@ -1,0 +1,7 @@
+skill:
+  id: international-tribunal-submission
+  jurisdiction: Saint Vincent and the Grenadines
+  status: ACTIVE
+  guardrails:
+    - no_fabricated_citations
+    - primary_source_verification_required

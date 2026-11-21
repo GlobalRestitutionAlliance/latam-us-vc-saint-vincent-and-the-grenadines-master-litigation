@@ -1,0 +1,7 @@
+skill:
+  id: source-citation-verification
+  jurisdiction: Saint Vincent and the Grenadines
+  status: ACTIVE
+  description: Verify primary-source citations before filing
+  guardrails:
+    - no_fabricated_citations

@@ -1,0 +1,13 @@
+{
+  "url": "https://data.worldbank.org/country",
+  "final_url": "\"https://data.worldbank.org/country\"",
+  "status": 200,
+  "title": "\"Countries | Data\"",
+  "bytes": 100179,
+  "sha256": "91cf88c48c2df29152c0f02e69ac6311921226bcacbf18782768f044e14190c5",
+  "captured_at": "2026-11-21T18:46:08.313068Z",
+  "custodian": "OpenCode/browser-fallback",
+  "country": "US_VC_SAINT_VINCENT_AND_THE_GRENADINES",
+  "iso": "VC",
+  "provenance": "browser-rendered outerHTML; WARC-like metadata sidecar; PUBLIC_CAPTURE_UNAUTHENTICATED; not certified original"
+}

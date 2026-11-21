@@ -1,0 +1,8 @@
+agent:
+  id: agent-lead-counsel
+  jurisdiction: Saint Vincent and the Grenadines
+  status: ACTIVE
+  role: Lead Strategic Counsel & Campaign Coordination
+  guardrails:
+    - no_fabricated_citations
+    - primary_source_verification_required
